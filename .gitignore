@@ -1,0 +1,21 @@
+# model files
+*.model
+
+# data files
+*.pickle
+
+# txt file
+*.txt
+
+# plots
+*.png
+
+# external libs
+lib/
+
+# html files
+*.html
+
+# word2vec file
+user_vector_training/word2vec/*
+!user_vector_training/word2vec/twitter_training_w2v.sh
